@@ -1,0 +1,26 @@
+.navbar-brand{
+ border-inline-color:#021547;
+    font-family: 'Petit Formal Script', cursive; 
+   
+}
+    
+h1{font-family: 'Petit Formal Script', cursive;  
+ }       
+
+
+header{
+background:#f5bc42
+}
+
+footer{
+   background:#a87532;
+}  
+
+.responsive {
+   max-width: 100%;
+   height: auto;
+ }
+
+
+ }
+ 
